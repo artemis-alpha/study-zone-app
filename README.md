@@ -1,2 +1,2 @@
 # study-zone-app
-Prsonal Productivity App
+Personal Productivity App
